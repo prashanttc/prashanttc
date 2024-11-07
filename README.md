@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="left">Langauges an Tools -</h3>
+<h3 align="left">Langauges and Tools -</h3>
 
 ###
 
